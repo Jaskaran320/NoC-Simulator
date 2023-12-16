@@ -1,0 +1,102 @@
+
+Flit: 00000000000011000000000000001000
+  Flit Type: Head, Element: Buffer, Router: 2, Delay: 0.0, Clock Cycle: 1
+  Flit Type: Head, Element: Switch Allocator, Router: 2, Delay: 0.3, Clock Cycle: 2
+  Flit Type: Head, Element: Xbar, Router: 2, Delay: 0.8999999999999999, Clock Cycle: 4
+  Flit Type: Head, Element: Buffer, Router: 5, Delay: 1.2, Clock Cycle: 5
+  Flit Type: Head, Element: Switch Allocator, Router: 5, Delay: 1.5, Clock Cycle: 6
+  Flit Type: Head, Element: Xbar, Router: 5, Delay: 1.7999999999999998, Clock Cycle: 7
+  Flit Type: Head, Element: Buffer, Router: 8, Delay: 2.1, Clock Cycle: 8
+  Flit Type: Head, Element: Switch Allocator, Router: 8, Delay: 2.4, Clock Cycle: 9
+  Flit Type: Head, Element: Xbar, Router: 8, Delay: 2.6999999999999997, Clock Cycle: 10
+  Flit Type: Head, Element: Buffer, Router: 7, Delay: 3.0, Clock Cycle: 11
+  Flit Type: Head, Element: Switch Allocator, Router: 7, Delay: 3.3, Clock Cycle: 12
+  Flit Type: Head, Element: Xbar, Router: 7, Delay: 3.5999999999999996, Clock Cycle: 13
+  Flit Type: Head, Element: Buffer, Router: 6, Delay: 3.9, Clock Cycle: 14
+  Flit Type: Head, Element: Switch Allocator, Router: 6, Delay: 4.2, Clock Cycle: 15
+  Flit Type: Head, Element: Xbar, Router: 6, Delay: 4.5, Clock Cycle: 16
+
+Flit: 00000000000100000000000000000000
+  Flit Type: Head, Element: Buffer, Router: 0, Delay: 0.0, Clock Cycle: 30
+  Flit Type: Head, Element: Switch Allocator, Router: 0, Delay: 0.3, Clock Cycle: 31
+  Flit Type: Head, Element: Xbar, Router: 0, Delay: 1.2, Clock Cycle: 34
+  Flit Type: Head, Element: Buffer, Router: 3, Delay: 1.5, Clock Cycle: 35
+  Flit Type: Head, Element: Switch Allocator, Router: 3, Delay: 1.7999999999999998, Clock Cycle: 36
+  Flit Type: Head, Element: Xbar, Router: 3, Delay: 2.1, Clock Cycle: 37
+  Flit Type: Head, Element: Buffer, Router: 6, Delay: 2.4, Clock Cycle: 38
+  Flit Type: Head, Element: Switch Allocator, Router: 6, Delay: 2.6999999999999997, Clock Cycle: 39
+  Flit Type: Head, Element: Xbar, Router: 6, Delay: 3.0, Clock Cycle: 40
+  Flit Type: Head, Element: Buffer, Router: 7, Delay: 3.3, Clock Cycle: 41
+  Flit Type: Head, Element: Switch Allocator, Router: 7, Delay: 3.5999999999999996, Clock Cycle: 42
+  Flit Type: Head, Element: Xbar, Router: 7, Delay: 3.9, Clock Cycle: 43
+  Flit Type: Head, Element: Buffer, Router: 8, Delay: 4.2, Clock Cycle: 44
+  Flit Type: Head, Element: Switch Allocator, Router: 8, Delay: 4.5, Clock Cycle: 45
+  Flit Type: Head, Element: Xbar, Router: 8, Delay: 4.8, Clock Cycle: 46
+
+Flit: 11000000000000000000000000000001
+  Flit Type: Body, Element: Buffer, Router: 2, Delay: 0.3, Clock Cycle: 2
+  Flit Type: Body, Element: Switch Allocator, Router: 2, Delay: 0.6, Clock Cycle: 3
+  Flit Type: Body, Element: Xbar, Router: 2, Delay: 1.5, Clock Cycle: 6
+  Flit Type: Body, Element: Buffer, Router: 5, Delay: 1.7999999999999998, Clock Cycle: 7
+  Flit Type: Body, Element: Switch Allocator, Router: 5, Delay: 2.1, Clock Cycle: 8
+  Flit Type: Body, Element: Xbar, Router: 5, Delay: 2.4, Clock Cycle: 9
+  Flit Type: Body, Element: Buffer, Router: 8, Delay: 2.6999999999999997, Clock Cycle: 10
+  Flit Type: Body, Element: Switch Allocator, Router: 8, Delay: 3.0, Clock Cycle: 11
+  Flit Type: Body, Element: Xbar, Router: 8, Delay: 3.3, Clock Cycle: 12
+  Flit Type: Body, Element: Buffer, Router: 7, Delay: 3.5999999999999996, Clock Cycle: 13
+  Flit Type: Body, Element: Switch Allocator, Router: 7, Delay: 3.9, Clock Cycle: 14
+  Flit Type: Body, Element: Xbar, Router: 7, Delay: 4.2, Clock Cycle: 15
+  Flit Type: Body, Element: Buffer, Router: 6, Delay: 4.5, Clock Cycle: 16
+  Flit Type: Body, Element: Switch Allocator, Router: 6, Delay: 4.8, Clock Cycle: 17
+  Flit Type: Body, Element: Xbar, Router: 6, Delay: 5.1, Clock Cycle: 18
+
+Flit: 11000000000000000000000000000010
+  Flit Type: Tail, Element: Buffer, Router: 2, Delay: 0.6, Clock Cycle: 3
+  Flit Type: Tail, Element: Switch Allocator, Router: 2, Delay: 0.8999999999999999, Clock Cycle: 4
+  Flit Type: Tail, Element: Xbar, Router: 2, Delay: 2.1, Clock Cycle: 8
+  Flit Type: Tail, Element: Buffer, Router: 5, Delay: 2.4, Clock Cycle: 9
+  Flit Type: Tail, Element: Switch Allocator, Router: 5, Delay: 2.6999999999999997, Clock Cycle: 10
+  Flit Type: Tail, Element: Xbar, Router: 5, Delay: 3.0, Clock Cycle: 11
+  Flit Type: Tail, Element: Buffer, Router: 8, Delay: 3.3, Clock Cycle: 12
+  Flit Type: Tail, Element: Switch Allocator, Router: 8, Delay: 3.5999999999999996, Clock Cycle: 13
+  Flit Type: Tail, Element: Xbar, Router: 8, Delay: 3.9, Clock Cycle: 14
+  Flit Type: Tail, Element: Buffer, Router: 7, Delay: 4.2, Clock Cycle: 15
+  Flit Type: Tail, Element: Switch Allocator, Router: 7, Delay: 4.5, Clock Cycle: 16
+  Flit Type: Tail, Element: Xbar, Router: 7, Delay: 4.8, Clock Cycle: 17
+  Flit Type: Tail, Element: Buffer, Router: 6, Delay: 5.1, Clock Cycle: 18
+  Flit Type: Tail, Element: Switch Allocator, Router: 6, Delay: 5.3999999999999995, Clock Cycle: 19
+  Flit Type: Tail, Element: Xbar, Router: 6, Delay: 5.7, Clock Cycle: 20
+
+Flit: 11100000000000000000000000000001
+  Flit Type: Body, Element: Buffer, Router: 0, Delay: 0.3, Clock Cycle: 31
+  Flit Type: Body, Element: Switch Allocator, Router: 0, Delay: 0.6, Clock Cycle: 32
+  Flit Type: Body, Element: Xbar, Router: 0, Delay: 1.7999999999999998, Clock Cycle: 36
+  Flit Type: Body, Element: Buffer, Router: 3, Delay: 2.1, Clock Cycle: 37
+  Flit Type: Body, Element: Switch Allocator, Router: 3, Delay: 2.4, Clock Cycle: 38
+  Flit Type: Body, Element: Xbar, Router: 3, Delay: 2.6999999999999997, Clock Cycle: 39
+  Flit Type: Body, Element: Buffer, Router: 6, Delay: 3.0, Clock Cycle: 40
+  Flit Type: Body, Element: Switch Allocator, Router: 6, Delay: 3.3, Clock Cycle: 41
+  Flit Type: Body, Element: Xbar, Router: 6, Delay: 3.5999999999999996, Clock Cycle: 42
+  Flit Type: Body, Element: Buffer, Router: 7, Delay: 3.9, Clock Cycle: 43
+  Flit Type: Body, Element: Switch Allocator, Router: 7, Delay: 4.2, Clock Cycle: 44
+  Flit Type: Body, Element: Xbar, Router: 7, Delay: 4.5, Clock Cycle: 45
+  Flit Type: Body, Element: Buffer, Router: 8, Delay: 4.8, Clock Cycle: 46
+  Flit Type: Body, Element: Switch Allocator, Router: 8, Delay: 5.1, Clock Cycle: 47
+  Flit Type: Body, Element: Xbar, Router: 8, Delay: 5.3999999999999995, Clock Cycle: 48
+
+Flit: 11100000000000000000000000000010
+  Flit Type: Tail, Element: Buffer, Router: 0, Delay: 0.6, Clock Cycle: 32
+  Flit Type: Tail, Element: Switch Allocator, Router: 0, Delay: 0.8999999999999999, Clock Cycle: 33
+  Flit Type: Tail, Element: Xbar, Router: 0, Delay: 2.4, Clock Cycle: 38
+  Flit Type: Tail, Element: Buffer, Router: 3, Delay: 2.6999999999999997, Clock Cycle: 39
+  Flit Type: Tail, Element: Switch Allocator, Router: 3, Delay: 3.0, Clock Cycle: 40
+  Flit Type: Tail, Element: Xbar, Router: 3, Delay: 3.3, Clock Cycle: 41
+  Flit Type: Tail, Element: Buffer, Router: 6, Delay: 3.5999999999999996, Clock Cycle: 42
+  Flit Type: Tail, Element: Switch Allocator, Router: 6, Delay: 3.9, Clock Cycle: 43
+  Flit Type: Tail, Element: Xbar, Router: 6, Delay: 4.2, Clock Cycle: 44
+  Flit Type: Tail, Element: Buffer, Router: 7, Delay: 4.5, Clock Cycle: 45
+  Flit Type: Tail, Element: Switch Allocator, Router: 7, Delay: 4.8, Clock Cycle: 46
+  Flit Type: Tail, Element: Xbar, Router: 7, Delay: 5.1, Clock Cycle: 47
+  Flit Type: Tail, Element: Buffer, Router: 8, Delay: 5.3999999999999995, Clock Cycle: 48
+  Flit Type: Tail, Element: Switch Allocator, Router: 8, Delay: 5.7, Clock Cycle: 49
+  Flit Type: Tail, Element: Xbar, Router: 8, Delay: 6.0, Clock Cycle: 50
